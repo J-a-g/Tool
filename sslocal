@@ -1,0 +1,6 @@
+sudo sslocal -s "ssus02.hxcq.org" -p 24116 -k 'scj1019413106' -m rc4-md5 -d start
+
+
+fatal: unable to access 'https://git.oschina.net/jags/akm.git/': Failed to connect to 127.0.0.1 port 1080: Connection refused
+
+
